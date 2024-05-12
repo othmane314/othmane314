@@ -9,30 +9,47 @@ I’m currently open for a new job opportunity, so feel free to reach out! 😉<
 🎓 I have a Master degree's<br>
 🇫🇷 I'm from France<br>
 🛹 I like to skate in my free time<br>
-## Tech Stack  
-   
+## Tech Stack
+[![Vue3](https://img.shields.io/badge/Vue-3-green)](https://vuejs.org/)
+[![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&style=flat-square)](https://vuejs.org/)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&style=flat-square)](https://angular.io/)
+[![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white&style=flat-square)](https://angularjs.org/)
+[![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white&style=flat-square)](https://ionicframework.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat-square)](https://sass-lang.com/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)](https://tailwindcss.com/)
 [![ChakraUI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white&style=flat-square)](https://chakra-ui.com/)
+[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF&style=flat-square)](https://vuetifyjs.com/en/)
+[![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black&style=flat-square)](https://quasar.dev/)
 [![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white&style=flat-square)](https://styled-components.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)](https://reactjs.org/)
+
+
 [![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
 [![REST API](https://img.shields.io/badge/REST_API-008080?logo=rest&logoColor=white&style=flat-square)](https://en.wikipedia.org/wiki/Representational_state_transfer)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)](https://graphql.org/)
 [![Sanity](https://img.shields.io/badge/Sanity-F36458?style=flat-square)](https://www.sanity.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)](https://expressjs.com/)
-[![Prisma](https://img.shields.io/badge/Prisma-1B222D?logo=prisma&logoColor=white&style=flat-square)](https://www.prisma.io/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+
+[![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220&style=flat-square)](https://pnpm.io/fr/)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&style=flat-square)](https://yarnpkg.com/)
+
+
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square)](https://jestjs.io/)
 [![React Testing Library](https://img.shields.io/badge/React_Testing_Library-FA8072?logo=testinglibrary&logoColor=white&style=flat-square)](https://testing-library.com/docs/react-testing-library/intro/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)](https://www.cypress.io/)
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square)](https://aws.amazon.com/)
+
+[![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white&style=flat-square)](https://aws.amazon.com/fr/dynamodb/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/fr/)
 ## Tools
 [![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
 [![Terminal](https://img.shields.io/badge/Terminal-black?style=flat-square&logo=gnu-bash&logoColor=white)](#)
