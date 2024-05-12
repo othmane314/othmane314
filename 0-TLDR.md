@@ -136,6 +136,10 @@ amend = commit --amend -C HEAD
 # history: This is pretty much the only way I look at my log. Aside from providing one-line logs,
 #          it also shows the branching in/out
 hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+
+![image](https://github.com/othmane314/othmane314/assets/169564004/73f158a0-0b7b-4e28-bf0e-1c5fdf72763f)
+
+lds = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
 ```
 
 
