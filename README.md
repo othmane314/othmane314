@@ -26,48 +26,40 @@ I’m currently open for a new job opportunity, so feel free to reach out! 😉<
 [![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black&style=flat-square)](https://quasar.dev/)
 [![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white&style=flat-square)](https://styled-components.com/)
 
-
-[![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square)](https://aws.amazon.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
+[![Redux](https://img.shields.io/badge/Redux-purple?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
 [![REST API](https://img.shields.io/badge/REST_API-008080?logo=rest&logoColor=white&style=flat-square)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 [![Sanity](https://img.shields.io/badge/Sanity-F36458?style=flat-square)](https://www.sanity.io/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-
-[![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220&style=flat-square)](https://pnpm.io/fr/)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&style=flat-square)](https://www.npmjs.com/)
-[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&style=flat-square)](https://yarnpkg.com/)
-
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white&style=flat-square)](https://www.heroku.com/)
 
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square)](https://jestjs.io/)
-[![React Testing Library](https://img.shields.io/badge/React_Testing_Library-FA8072?logo=testinglibrary&logoColor=white&style=flat-square)](https://testing-library.com/docs/react-testing-library/intro/)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&style=flat-square)](https://www.selenium.dev/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)](https://www.cypress.io/)
-
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat-square)](https://aws.amazon.com/)
 
 [![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white&style=flat-square)](https://aws.amazon.com/fr/dynamodb/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/fr/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&style=flat-square)](https://mariadb.org/)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/fr/)
+
 ## Tools
 [![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
 [![Terminal](https://img.shields.io/badge/Terminal-black?style=flat-square&logo=gnu-bash&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/)
+[![Pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220&style=flat-square)](https://pnpm.io/fr/)
+[![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&style=flat-square)](https://yarnpkg.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Vite.js](https://img.shields.io/badge/Vite.js-4630EB?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)](https://figma.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)](https://www.atlassian.com/software/jira)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
-[![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.google.com/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat-square)](https://stackoverflow.com/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-223E6D?style=flat-square&logo=chatbot&logoColor=white)](https://openai.com/)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=flat-square)](https://slack.com/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.com/)
-[![Google Workspace](https://img.shields.io/badge/Google_Workspace-0F9D58?logo=google-workspace&logoColor=white&style=flat-square)](https://workspace.google.com/)
-[![Office 365](https://img.shields.io/badge/Office_365-0078D4?logo=microsoft-office-365&logoColor=white&style=flat-square)](https://www.office.com/)
+
 ## Currently learning 
 [![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&style=flat-square)](https://strapi.io/)
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)
