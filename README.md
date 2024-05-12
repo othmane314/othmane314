@@ -9,6 +9,7 @@ I’m currently open for a new job opportunity, so feel free to reach out! 😉<
 🎓 I have a Master degree's<br>
 🇫🇷 I'm from France<br>
 🛹 I like to skate in my free time<br>
+
 ## Tech Stack
 [![Vue3](https://img.shields.io/badge/Vue-3-green)](https://vuejs.org/)
 [![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&style=flat-square)](https://vuejs.org/)
@@ -63,6 +64,7 @@ I’m currently open for a new job opportunity, so feel free to reach out! 😉<
 ## Currently learning 
 [![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&style=flat-square)](https://strapi.io/)
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactnative.dev/)
+
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/othmane-sayadi-8a816817a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/othmane314/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:othmane.sayadi.31@gmail.com)
